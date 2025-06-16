@@ -96,8 +96,9 @@
 <h2 align="center">🔥 Coding Activity</h2>
 <div align="center">
   <!-- Snake animation of contributions -->
+  <!--
 ![Snake animation](https://raw.githubusercontent.com/Ahmed-AbdElwanes/Ahmed-AbdElwanes/output/github-contribution-grid-snake.svg)
-  
+   -->
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-AbdElwanes&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
